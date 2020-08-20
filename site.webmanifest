@@ -1,0 +1,19 @@
+{
+    "name": "Manhwa DxD",
+    "short_name": "Blog",
+    "icons": [
+        {
+            "src": "https://1.bp.blogspot.com/-M23XyDduKPs/Xz7RaeGSUxI/AAAAAAAAJVA/mtbReu1EtNI554HiEtBiN6VjTJKn0S27ACNcBGAsYHQ/s192/Favicon192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://1.bp.blogspot.com/-6EjiTssmZrw/Xz7RaahBjZI/AAAAAAAAJVE/oaP9ZfIDZB03Tcc-IkyiFfmDesmBzGc0gCNcBGAsYHQ/s256/Favicon256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
